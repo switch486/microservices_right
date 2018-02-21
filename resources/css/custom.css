@@ -9,3 +9,8 @@ img.shrinked {
 	max-width: 65%;
 }
 
+
+div.alignRight {
+	text-align: right;
+}
+
