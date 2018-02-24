@@ -14,3 +14,13 @@ div.alignRight {
 	text-align: right;
 }
 
+
+table.tableSlideContent td {
+	width: 49%;
+	vertical-align: middle;
+}
+
+a.tiny {
+	font-size: 50%;
+}
+
