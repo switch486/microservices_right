@@ -9,6 +9,13 @@ img.shrinked {
 	max-width: 65%;
 }
 
+img.shrinkedLittle {
+	max-width: 75%;
+}
+
+img.shrinkedTiny {
+	max-width: 85%;
+}
 
 div.alignRight {
 	text-align: right;
