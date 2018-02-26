@@ -5,6 +5,10 @@ div.bordered {
 	padding: 3px 3px 3px 3px;
 }
 
+img.shrinkedALot {
+	max-width: 45%;
+}
+
 img.shrinked {
 	max-width: 65%;
 }
@@ -31,3 +35,6 @@ a.tiny {
 	font-size: 50%;
 }
 
+h3.white {
+	color: white;
+}
